@@ -1,0 +1,45 @@
+h1 {
+    border: 2px #eee solid;
+    background: #8e6e41;
+    color: #973841;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: #8e6e41; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+input {
+    padding: 7px;
+    border: none;
+    background-color: #8e6e41;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/* form {
+
+} */
+textarea{
+    margin-top: 10px;
+    margin-right: 5px;
+    height: 8em;
+    width: 40em;
+    background: #973841;
+}
+
+body {
+    background: #2aa5a5;
+}  
